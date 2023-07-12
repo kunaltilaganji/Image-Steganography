@@ -6,11 +6,11 @@ Steganography is the art of hiding the fact that communication is taking place, 
  This was my project for the Digital Image Processing course I had taken in college. It uses a basic LSB technique to encrypt the text in an image and has a decent UI to perform cryptographical processes.
 
 <h3>Below figure shows the difference when the encoded images have undergone Discrete Cosing Transformation.</h3>
-<img href= "https://github.com/kunaltilaganji/Image-Steganography/assets/77935694/e41567ad-d4eb-4a13-95d2-0058f688010e"> DCT on images</img>
+<img href= https://github.com/kunaltilaganji/Image-Steganography/assets/77935694/e41567ad-d4eb-4a13-95d2-0058f688010e> DCT on images</img>
 
 
 <h3>Here are the results when the images have been passed through Mean & Median Filters</h3>
-<img href = "https://github.com/kunaltilaganji/Image-Steganography/assets/77935694/9f548c2e-1abe-4617-be70-8a87ba96a17d"> Mean & Median Filters</img>
+<img href = https://github.com/kunaltilaganji/Image-Steganography/assets/77935694/9f548c2e-1abe-4617-be70-8a87ba96a17d> Mean & Median Filters</img>
 
 
 <h2>You can find the detailed report using the link below</h2>

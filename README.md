@@ -1,5 +1,5 @@
 # Image-Steganography
-<h1>College Project to encrypt text in images.</h1>
+<h1>College Project - Encryption of Text Into Images.</h1>
 <p>
 Steganography is the art of hiding the fact that communication is taking place, by hiding information in other information. Many different carrier file formats can be used, but digital images are the most popular because of their frequency on the Internet. For hiding secret information in images, there exists a large variety of steganographic techniques, some are more complex than others and all of them have respective strong and weak points. it involves embedding secret messages or information into digital images in a way that is imperceptible to the human eye the hidden data can be in the form of text, images, audio, or video. This paper deals with hiding text in an image file using Least Significant Bit (LSB) based Steganography, Discrete Cosine Transform (DCT) based Steganography. The performance and comparison of these  techniques are evaluated on the basis of the parameters MSE, PSNR, Capacity & Robustness! </p>
 

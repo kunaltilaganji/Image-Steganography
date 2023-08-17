@@ -16,4 +16,15 @@ Steganography is the art of hiding the fact that communication is taking place b
 
 <h2>You can find the detailed report using the link below</h2>
 <a  href = "https://viswharajhospital-my.sharepoint.com/:w:/g/personal/1032202057_mitwpu_ac_in/EaHcB5sRr35DlvDxiJqHT4sBMPXlzjNMLPgO3U0nOWHFOw" target="_blank" >Digital Image Processing Report </a>
+   
+   
+## Usage
+
+Run the script to embed a message into an image:
+   ```bash
+   python ImageSteganography.py
+   ```
+The UI pops up and then you can use it to embed text in images.
+
+
 
